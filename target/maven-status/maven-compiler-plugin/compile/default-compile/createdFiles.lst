@@ -1,0 +1,5 @@
+com\reylulu\webapp\resources\Recurso.class
+com\reylulu\webapp\controladores\IndexController.class
+com\reylulu\webapp\resources\App.class
+com\reylulu\webapp\negocio\DataService.class
+com\reylulu\webapp\entidades\Alumno.class
