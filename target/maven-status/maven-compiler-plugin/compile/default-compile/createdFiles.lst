@@ -1,5 +1,6 @@
 com\reylulu\webapp\controladores\MateriaController.class
 com\reylulu\webapp\entidades\Materia.class
+com\reylulu\webapp\controladores\AlumnoController.class
 com\reylulu\webapp\entidades\Alumno.class
 com\reylulu\webapp\resources\Recurso.class
 com\reylulu\webapp\controladores\IndexController.class

@@ -39,7 +39,7 @@ public class MateriaController {
     
     public void llenarMateriaEditar(Materia materia){
         this.materia.setId(materia.getId());
-        this.materia.setCodigo(materia.getNombre());
+        this.materia.setCodigo(materia.getCodigo());
         this.materia.setNombre(materia.getNombre());
         this.materia.setDescripcion(materia.getDescripcion());
     }
